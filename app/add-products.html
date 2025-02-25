@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Product</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your main CSS file -->
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-4">Add New Product</h1>
+        <form>
+            <div class="mb-3">
+                <label for="productPhoto" class="form-label">Photo</label>
+                <input type="file" class="form-control" id="productPhoto" required>
+            </div>
+            <div class="mb-3">
+                <label for="productTitle" class="form-label">Title</label>
+                <input type="text" class="form-control" id="productTitle" required>
+            </div>
+            <div class="mb-3">
+                <label for="productDescription" class="form-label">Description</label>
+                <textarea class="form-control" id="productDescription" rows="3" maxlength="100" required></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="productPrice" class="form-label">Price</label>
+                <input type="number" class="form-control" id="productPrice" required step="0.01">
+            </div>
+            <div class="mb-3">
+                <label for="productQuantity" class="form-label">Quantity</label>
+                <input type="number" class="form-control" id="productQuantity" required min="1">
+            </div>
+            <button type="submit" class="btn btn-primary">Add Product</button>
+        </form>
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/js/bootstrap.min.js"></script>
+</body>
+</html>
