@@ -24,6 +24,66 @@ document.addEventListener("DOMContentLoaded", () => {
             name: 'Nikon Camera',
             description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
             image: yaazhini
+        },
+        {
+            name: 'Fujfilm Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: enginakyurt
+        },
+        {
+            name: 'Canon Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: quangVietNguyen
+        },
+        {
+            name: 'Nikon Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: yaazhini
+        },
+        {
+            name: 'Fujfilm Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: enginakyurt
+        },
+        {
+            name: 'Canon Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: quangVietNguyen
+        },
+        {
+            name: 'Nikon Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: yaazhini
+        },
+        {
+            name: 'Fujfilm Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: enginakyurt
+        },
+        {
+            name: 'Canon Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: quangVietNguyen
+        },
+        {
+            name: 'Nikon Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: yaazhini
+        },
+        {
+            name: 'Fujfilm Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: enginakyurt
+        },
+        {
+            name: 'Canon Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: quangVietNguyen
+        },
+        {
+            name: 'Nikon Camera',
+            description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+            image: yaazhini
         }
     ];
 
